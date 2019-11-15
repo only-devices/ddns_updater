@@ -1,0 +1,6 @@
+{
+	"email": "user@domain.com",
+	"key": "api_key_not_token",
+	"zone": "domain.com",
+	"record": "subdomain.domain.com"
+}
